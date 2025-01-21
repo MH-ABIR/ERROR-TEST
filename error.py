@@ -1,1 +1,2 @@
 import EPX
+EPX.error()
